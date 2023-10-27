@@ -1,0 +1,19 @@
+.welcome {
+  background-color: #d9dd00;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: "Poppins";
+  font-weight: 600;
+  text-align: center;
+  font-size: 48px;
+  padding: 8px;
+  width: 70%;
+  border-radius: 8px;
+}
+
+.welcome span {
+  color: #fff;
+  font-weight: 400;
+}

@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+  ::-webkit-scrollbar {
+    width: 5px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #000000;
+  }
+}
+
+body {
+  min-height: 100vh;
+  background-image: url(https://t4.ftcdn.net/jpg/05/32/23/87/360_F_532238728_r5mavlVtqGKLStbxBzpBtSV23ruegLwD.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  backdrop-filter: blur(7px);
+}

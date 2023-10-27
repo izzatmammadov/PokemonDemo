@@ -1,0 +1,21 @@
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 30px 0px;
+}
+
+.title, .title_power {
+  text-align: center;
+  font-size: 30px;
+  font-family: "Poppins";
+  font-weight: 600;
+  margin-top: 40px;
+  color: #fff;
+}
+
+.title_power {
+  color: #22e600;
+}

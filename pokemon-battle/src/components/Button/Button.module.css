@@ -1,0 +1,23 @@
+.btn {
+  border: none;
+  padding: 8px 28px;
+  font-size: 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-family: "Poppins";
+  font-weight: 400;
+  color: #fff;
+
+}
+
+.btn:hover {
+  transition: all 0.3s;
+  transform: scale(1.05);
+  box-shadow: 0px 5px 15px #d9dd00;
+}
+
+/* COLORS */
+
+.color_start {
+  background-color: #d9dd00;
+}
